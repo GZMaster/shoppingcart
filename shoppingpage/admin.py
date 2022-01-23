@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import items
+from .models import cartitems
 
 # Register your models here.
-admin.site.register(items)
+admin.site.register(cartitems)

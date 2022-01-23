@@ -4,5 +4,5 @@ from django.db import models
 # Create your models here.
 
 
-class items(models.Model):
+class cartitems(models.Model):
     name = models.TextField()
